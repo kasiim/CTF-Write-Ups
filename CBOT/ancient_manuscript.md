@@ -1,4 +1,4 @@
-# Ancient manuscript
+# Ancient manuscript (200 pts)
 Credits go to other team member :)
 
 Hacker has changed the file and hidden flag into it, can you find it.  
